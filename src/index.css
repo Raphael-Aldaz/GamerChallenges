@@ -33,3 +33,6 @@
   --depth: 1;
   --noise: 0;
 }
+:root {
+  --font-sans: "Roboto", ui-sans-serif, system-ui, sans-serif;
+}
